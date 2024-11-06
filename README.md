@@ -1,48 +1,40 @@
 🌤 #Aplicativo de Clima com React
-Este é um projeto de um aplicativo de clima que usa React para buscar e exibir informações meteorológicas em tempo real para qualquer cidade do mundo. O projeto faz chamadas para a API do OpenWeatherMap e altera o plano de fundo dinamicamente com uma imagem apropriada para o clima atual da cidade pesquisada.
+-Este é um projeto de um aplicativo de clima que usa React para buscar e exibir informações meteorológicas em tempo real para qualquer cidade do mundo. O projeto faz chamadas para a API do OpenWeatherMap e altera o plano de fundo dinamicamente com uma imagem apropriada para o clima atual da cidade pesquisada.
 
 📸 Prévia
 
 🛠️ #Funcionalidades
-Busca de clima em tempo real para qualquer cidade.
-Plano de fundo dinâmico: muda de acordo com a condição climática (ensolarado, nublado, chuvoso, nevando e tempestade).
-Exibição de temperatura em graus Celsius.
-Interface intuitiva e responsiva.
+-Busca de clima em tempo real para qualquer cidade.
+-Plano de fundo dinâmico: muda de acordo com a condição climática (ensolarado, nublado, chuvoso, nevando e tempestade).
+-Exibição de temperatura em graus Celsius.
+-Interface intuitiva e responsiva.
 
 
 🚀 #Tecnologias Utilizadas
 
-React: Biblioteca JavaScript para construção de interfaces.
+-React: Biblioteca JavaScript para construção de interfaces.
 
-OpenWeatherMap API: Serviço de dados meteorológicos em tempo real.
+-OpenWeatherMap API: Serviço de dados meteorológicos em tempo real.
 
-CSS: Estilização para componentes e plano de fundo.
+-CSS: Estilização para componentes e plano de fundo.
 
 
 📂# Estrutura de Pastas
 bash
 Copiar código
 /src
-├── /backgrounds  
-# Imagens de plano de fundo para cada condição climática
-
-├── App.js  
-# Componente principal da aplicação
-
-├── App.css           
-# Estilos gerais da aplicação
-
-
-└── index.js         
-# Entrada principal do React
+-├── /backgrounds  # Imagens de plano de fundo para cada condição climática
+-├── App.js # Componente principal da aplicação
+-├── App.css # Estilos gerais da aplicação
+-└── index.js # Entrada principal do React
 
 
 🔧 #Configuração e Instalação
 Pré-requisitos
 
-Node.js (versão 14 ou superior)
+-Node.js (versão 14 ou superior)
 
-Conta na OpenWeatherMap para obter uma chave de API
+-Conta na OpenWeatherMap para obter uma chave de API
 
 
 Passo a Passo
