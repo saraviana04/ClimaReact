@@ -11,8 +11,11 @@ Interface intuitiva e responsiva.
 
 
 🚀 #Tecnologias Utilizadas
+
 React: Biblioteca JavaScript para construção de interfaces.
+
 OpenWeatherMap API: Serviço de dados meteorológicos em tempo real.
+
 CSS: Estilização para componentes e plano de fundo.
 
 
@@ -36,7 +39,9 @@ Copiar código
 
 🔧 #Configuração e Instalação
 Pré-requisitos
+
 Node.js (versão 14 ou superior)
+
 Conta na OpenWeatherMap para obter uma chave de API
 
 
