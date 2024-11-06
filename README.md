@@ -1,18 +1,18 @@
-🌤 Aplicativo de Clima com React
+🌤 #Aplicativo de Clima com React
 Este é um projeto de um aplicativo de clima que usa React para buscar e exibir informações meteorológicas em tempo real para qualquer cidade do mundo. O projeto faz chamadas para a API do OpenWeatherMap e altera o plano de fundo dinamicamente com uma imagem apropriada para o clima atual da cidade pesquisada.
 
 📸 Prévia
 
-🛠️ Funcionalidades
+🛠️ #Funcionalidades
 Busca de clima em tempo real para qualquer cidade.
 Plano de fundo dinâmico: muda de acordo com a condição climática (ensolarado, nublado, chuvoso, nevando e tempestade).
 Exibição de temperatura em graus Celsius.
 Interface intuitiva e responsiva.
-🚀 Tecnologias Utilizadas
+🚀 #Tecnologias Utilizadas
 React: Biblioteca JavaScript para construção de interfaces.
 OpenWeatherMap API: Serviço de dados meteorológicos em tempo real.
 CSS: Estilização para componentes e plano de fundo.
-📂 Estrutura de Pastas
+📂# Estrutura de Pastas
 bash
 Copiar código
 /src
@@ -24,6 +24,8 @@ Copiar código
 Pré-requisitos
 Node.js (versão 14 ou superior)
 Conta na OpenWeatherMap para obter uma chave de API
+
+
 Passo a Passo
 Clone o repositório:
 
